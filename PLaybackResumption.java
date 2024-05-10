@@ -18,7 +18,7 @@ class PlaybackHistory {
     }
 }
 
-public class PLaybackResumption {
+public class PlaybackResumption {
     public static void main(String[] args) {
 
         String userId = "user123";
