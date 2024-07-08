@@ -5,8 +5,8 @@ desired element is found or determined to be absent.
 
 ![Binary search](./binary-search.png)
 
-## time Complexity
+## Time Complexity
 O(log n)
 
-## space Complexity
+## Space Complexity
 O(1)
