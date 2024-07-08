@@ -1,3 +1,3 @@
 # Merge Sort
 
-![Merge Sort](./mege-sort.webp)
+![Merge Sort](./merge-sort.webp)
