@@ -18,5 +18,5 @@ O(r*c)
 ## Space complexity
 O(r*c)
 
-r: the length of the string2
-c: the length of the string1
+- \(r\): the length of string2
+- \(c\): the length of string1
