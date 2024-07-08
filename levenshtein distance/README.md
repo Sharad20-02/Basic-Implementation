@@ -3,9 +3,9 @@ The Levenshtein distance between two strings represents the minimum number of ed
 It is also called edit distance. The smaller the Levenshtein distance, the similar the strings are.
 
 Three edit operations can be used:
-    1. Insertion
-    2. Deletion
-    3. Replacement
+- **Insertion**
+- **Deletion**
+- **Replacement**
 
 We maintain a distance matrix to store the Levenshtein distance of substrings and calculate the 
 Levenshtein distance using dynamic programming until we reach the bottom-right element.
