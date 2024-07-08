@@ -1,11 +1,13 @@
-The basis of phonetic spell-check algorithms lies in the phonetic representation of words. These algorithms aim to map words with 
-similar pronunciations or phonetic characteristics to the same or similar representations. By doing so, they enable the identification 
-and correction of spelling mistakes based on their phonetic similarity rather than their exact textual form. But how is this achieved?
+# Fisher Yates Shuffle Algorithm
+he Fisher-Yates Shuffle algorithm shuffles a finite sequence of elements by generating a random permutation. 
+The possibility of every permutation occurring is equally likely. The algorithm is performed by storing the elements 
+of the sequence in a sack and drawing each element randomly from the sack to form the shuffled sequence.
 
-The crucial part of the entire process is to generate a phonetic hash of a word and then compare it with the rest of them. 
-While different algorithms produce varied hashes, Soundex, for instance, generates a four-letter code.
+# Complexity analysis
+## Time complexity
+The time complexity O(N), where n is the size of the array as we traverse the array only one time to swap the elements if needed.
 
-The Soundex algorithm, is remarkably simple yet capable of handling challenging cases. To illustrate its effectiveness, 
-let’s examine an example involving the brand name Skullcandy and its various phonetic errors. Given below is an image for the same.
+## Space complexity
+O(1), will be the space complexity as we have taken only two variables to traverse the array and haven't used any extra data structure.
 
-![Soundex Algorithm](./soundex-algorithm)
+![Soundex Algorithm](./fisher-yates-shuffle.png)
