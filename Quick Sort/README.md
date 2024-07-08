@@ -13,5 +13,5 @@ and all that’s left is to merge them together.
 O(n logn)
 
 ## Space Complexity
-Best and Average Case: O(log n)
-Worst case: O(n)
+- Best and Average Case: O(log n)
+- Worst case: O(n)
