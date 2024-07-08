@@ -7,7 +7,7 @@ Merge sort is a divide-and-conquer algorithm that splits the input array into tw
 
 | **Complexity**  | **Time Complexity** | **Space Complexity** |
 |-----------------|---------------------|----------------------|
-| Best Case       | \(O(n \log n)\)     | \(O(n)\)             |
-| Average Case    | \(O(n \log n)\)     | \(O(n)\)             |
-| Worst Case      | \(O(n \log n)\)     | \(O(n)\)             |
+| Best Case       | O(n log n)     | O(n)             |
+| Average Case    | O(n log n)     | O(n)             |
+| Worst Case      | O(n log n)     | O(n)             |
 
